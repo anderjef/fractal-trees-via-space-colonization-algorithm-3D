@@ -1,8 +1,8 @@
-# Fractal Trees Via Space Colonization Algorithm 3D
+# Fractal Trees Via Space Colonization Algorithm 3D License
 
 ## Copyright
 
-(c) © 2020 Jeffrey Andersen
+Copyright (c) 2020 Jeffrey Andersen
 
 ## Warranty
 
