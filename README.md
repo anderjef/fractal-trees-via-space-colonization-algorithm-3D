@@ -16,8 +16,7 @@ Start date: 2020-11-03
 
 ## Installation
 
-- Open Processing (IDE).
-- Open any of the `*.pde` files with Processing (IDE).
+Open any of the `*.pde` files with Processing (IDE).
 
 ## Usage
 
